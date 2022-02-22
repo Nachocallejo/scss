@@ -1,15 +1,17 @@
+/*@import "variantes";
+*/
 header {
   color: black;
   border-bottom: 0.50rem solid #EDCDBB;
   background-color: #fdf7e2;
 }
 
-header a {
+a {
   text-decoration: none;
   color: black;
 }
 
-header #menuBurger {
+#menuBurger {
   display: none;
 }
 
@@ -30,7 +32,7 @@ img {
 }
 
 .lead p {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: x-large;
 }
 
@@ -41,3 +43,4 @@ footer {
   padding-top: 20px;
   padding-bottom: 30px;
 }
+/*# sourceMappingURL=style.css.map */
